@@ -1,0 +1,49 @@
+[debug] [2023-03-25T15:02:57.534Z] ----------------------------------------------------------------------
+[debug] [2023-03-25T15:02:57.539Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\TartejBros\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2023-03-25T15:02:57.540Z] CLI Version:   11.25.1
+[debug] [2023-03-25T15:02:57.540Z] Platform:      win32
+[debug] [2023-03-25T15:02:57.540Z] Node Version:  v18.13.0
+[debug] [2023-03-25T15:02:57.558Z] Time:          Sat Mar 25 2023 20:32:57 GMT+0530 (India Standard Time)
+[debug] [2023-03-25T15:02:57.558Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-25T15:02:57.576Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-25T15:02:57.577Z] > authorizing via signed-in user (taranjeetsinghbedi2@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Notomatic
+
+[debug] [2023-03-25T15:44:02.056Z] ----------------------------------------------------------------------
+[debug] [2023-03-25T15:44:02.060Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\TartejBros\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2023-03-25T15:44:02.061Z] CLI Version:   11.25.1
+[debug] [2023-03-25T15:44:02.061Z] Platform:      win32
+[debug] [2023-03-25T15:44:02.061Z] Node Version:  v18.13.0
+[debug] [2023-03-25T15:44:02.077Z] Time:          Sat Mar 25 2023 21:14:02 GMT+0530 (India Standard Time)
+[debug] [2023-03-25T15:44:02.077Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-25T15:44:02.091Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-25T15:44:02.092Z] > authorizing via signed-in user (taranjeetsinghbedi2@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Notomatic
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
