@@ -9,11 +9,12 @@ This is a very basic project and can be recreated by just using HTML, CSS
 
 ## Screenshots
 <ul align="center">
-  <p><img src="readmeimg/1.jpg" alt="">
-<img src="readmeimg/2.jpg" alt="">
-<img src="readmeimg/3.jpg" alt="">
+  <p><img src="readme/1.jpg" alt="">
+<img src="readme/2.jpg" alt="">
+<img src="readme/3.jpg" alt="">
 </p>
 </ul>
+
 ## Setup
 
 ```git clone https://github.com/TartejBrothexrs/Notomatic.git```
