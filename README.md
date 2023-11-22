@@ -9,5 +9,5 @@ This is a very basic project and can be recreated by just using HTML, CSS
 
 ## Setup
 
-``` git clone https://github.com/TartejBrothers/Notomatic.git
-cd Notomatic-main```
+``` git clone https://github.com/TartejBrothers/Notomatic.git```
+``` cd Notomatic-main```
